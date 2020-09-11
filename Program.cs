@@ -193,7 +193,6 @@ namespace _2_Lab
             Console.WriteLine(str1);
             str1 = str1.Remove(3); //! REMOVE
             Console.WriteLine(str1);
-            Console.Write($"{str1}");
         }
 
         public static void Second_task_c()
