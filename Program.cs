@@ -295,5 +295,6 @@ namespace _2_Lab
 
             Console.Write($"\ntuple2 compareto tuple3:\t{tuple2.CompareTo(tuple3)}");
         }
+        //gg
     }
 }
